@@ -1,6 +1,6 @@
 # IoT-Dashboard
 
-# Environment
+## Environment
 node.js 20.x
 
 ### Install dependencies
@@ -20,3 +20,8 @@ $ npm run start
 $ npm run dev
 ```
 
+## setting
+```
+NEXT_PUBLIC_APP_SERVER_URL={ server url }
+NEXT_PUBLIC_GOOGLE_MAPS_API_KEY={ google map api key }
+```
