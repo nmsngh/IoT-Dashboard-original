@@ -20,7 +20,7 @@ $ npm run start
 $ npm run dev
 ```
 
-## setting
+## setting in env file
 ```
 NEXT_PUBLIC_APP_SERVER_URL={ server url }
 NEXT_PUBLIC_GOOGLE_MAPS_API_KEY={ google map api key }
